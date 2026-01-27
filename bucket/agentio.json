@@ -1,12 +1,12 @@
 {
-    "version": "0.4.2",
+    "version": "0.4.3",
     "description": "CLI for LLM agents to interact with communication and tracking services",
     "homepage": "https://github.com/plosson/agentio",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/plosson/agentio/releases/download/v0.4.2/agentio-windows-x64.exe",
-            "hash": "856badf838fb24c3cee0d854c456706e9bd8397b02bb1bc2ae234b98e77f25ae"
+            "url": "https://github.com/plosson/agentio/releases/download/v0.4.3/agentio-windows-x64.exe",
+            "hash": "51832ad7b80200c9fa7716e0c1ec8f13a5935e21abe9c36738c32a90a63024f8"
         }
     },
     "bin": [["agentio-windows-x64.exe", "agentio"]],
